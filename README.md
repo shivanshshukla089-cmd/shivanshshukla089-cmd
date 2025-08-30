@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an enthusiastic learner diving into the world 
 
 - **Languages**: Java, 
 - **Tools**: Git, IntelliJ, VS Code
-- **Learning**: SDevelopment, Security,
+- **Learning**: Software Development, Security.
 - **LinkedIn**:  [Shivansh Shukla](https://www.linkedin.com/in/shivansh-shukla-671947222/)
 
 ---
