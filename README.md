@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm an enthusiastic learner diving into the world 
 
 - 🌱 Always exploring new concepts, from **programming** to **problem-solving**.
 - 🧑‍🏫 Learning **Java** and improving my **DSA** skills.
-- ⚡ Passionate about **chess**, **football**, and **music**.
 
 ## 🛠️ Tech Stack
 
