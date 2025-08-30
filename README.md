@@ -13,13 +13,7 @@ Welcome to my GitHub profile! I'm an enthusiastic learner diving into the world 
 - **Languages**: Java, 
 - **Tools**: Git, IntelliJ, VS Code
 - **Learning**: SDevelopment, Security,
-
-## 📫 How to Reach Me
-
 - **LinkedIn**:  [Shivansh Shukla](https://www.linkedin.com/in/shivansh-shukla-671947222/)
 
-- **LeetCode**: [Vasu](https://leetcode.com/Vasu004/)
-
 ---
-
 **"The journey of learning is endless, and I am just getting started!"**
