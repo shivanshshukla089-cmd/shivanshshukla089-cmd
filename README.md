@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Vasu 👋
 
-<!--
-**shivanshshukla089-cmd/shivanshshukla089-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an enthusiastic learner diving into the world of **Computer Science**, **Java Programming**, **Data Structures & Algorithms**, and **Cybersecurity**. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Currently focusing on **GATE CSE 2026** preparation.
+- 🌱 Always exploring new concepts, from **programming** to **problem-solving**.
+- 🧑‍🏫 Learning **Java** and improving my **DSA** skills.
+- ⚡ Passionate about **chess**, **football**, and **music**.
+
+## 🛠️ Tech Stack
+
+- **Languages**: Java, Python, C++
+- **Tools**: Git, IntelliJ, VS Code
+- **Learning**: Web Development, Security, Machine Learning
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [Vasu Shukla](https://www.linkedin.com/in/vasu-shukla)
+- **LeetCode**: [Vasu](https://leetcode.com/Vasu004/)
+
+---
+
+**"The journey of learning is endless, and I am just getting started!"**
